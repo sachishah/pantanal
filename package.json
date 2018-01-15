@@ -1,0 +1,29 @@
+{
+  "name": "pantanal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "chart.js": "^2.7.1",
+    "mysql": "^2.15.0",
+    "pretty-dropdowns": "^4.10.0",
+    "slim-select": "^1.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachishah/pantanal.git"
+  },
+  "author": "Sachi Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachishah/pantanal/issues"
+  },
+  "homepage": "https://github.com/sachishah/pantanal#readme"
+}
