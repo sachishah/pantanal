@@ -671,9 +671,6 @@ textarea::-ms-input-placeholder
 .single_features_left img{
     height:460px;
 }
-.single_features_right {
-    margin-top:10%;
-}
 
 .single_features_right h2 {
 	margin-bottom: 40px;
@@ -1478,6 +1475,7 @@ xkeyframes
     transition:.3s ease-in-out;
     -moz-transition:.3s ease-in-out;
     -webkit-transition:.3s ease-in-out;
+    height: 400px;
 }
 .community-edition:hover{
     background:#82ca9c;
